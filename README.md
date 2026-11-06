@@ -10,7 +10,7 @@ MAX sorts not molecules but **sound**. Feed him a recording and he tears it into
 
 What comes out is never the same twice. That is the bargain.
 
-This grimoire describes **MAX the DEMON v666**, a tapp for the tape! by It's Your Bedtime.
+This grimoire describes **MAX the DEMON v666.1**, a tapp for the tape! by It's Your Bedtime.
 
 ## II. The Rite of Installation
 
@@ -77,13 +77,31 @@ MAX feeds only on what you give him. **Tap BTN2** to see every take on your tape
 | BTN1 FEED | Give MAX the chosen take and return to the vessels. |
 | BTN2 HEAR | Preview the take. Press again to stop. The vessels fall quiet, but MAX keeps sorting. |
 | BTN3 SLIDE | Long takes only (see below). |
-| BTN4 / BTN5 | Go back, changing nothing. |
+| BTN3 hold REV | Turn the take backwards. Hold again to turn it forwards. |
+| BTN4 SPEED | Change the take's speed: 1x, 1/2, 1/4, 1/8, 1/16, 2x, then around again. |
+| BTN5 | Go back, changing nothing. |
 
-![The TAKE page listing five takes, a long one with its 20 s box](images/take-page.jpg)
+![The TAKE page with six takes: one at 1/4, one at 1/16, one reversed](images/take-page.jpg)
 
-*The TAKE page: five takes on tape. Take 05 runs 27.3 s, so the box marks the 20 s MAX will eat.*
+*The TAKE page: six takes on tape. Take 02 is set to 1/4 and take 06 to 1/16; slowed down, each runs past 20 s, so a box marks what MAX will eat. Take 04 wears the backwards triangle of REV. Under BTN3 waits **rev**, and BTN4 shows the chosen take's speed, 1x.*
 
 **Long takes.** MAX handles at most **20 seconds** of a take. For a longer one, the waveform shows the whole take with a box around the 20 s he will eat. Tap **BTN3 SLIDE** and turn the knob to move the box, 1 second a click; the row shows where it starts (such as @0:41). Tap BTN3 again when done. HEAR and FEED both use the box. MAX forgets the box when he is banished, so cut long recordings into separate takes on the tape! itself.
+
+### Speed and Reversal
+
+The tape! decks can record at less than full speed. Such a take holds fewer moments of sound each second, and the decks play it back just as slowly, so it sounds true to you. MAX cannot know how fast a take was recorded. Left alone, he devours it at full speed, and it comes out **fast and high**, like a chattering imp.
+
+Tell him the truth with **BTN4 SPEED**. Each tap moves the chosen take to the next speed: **1x → 1/2 → 1/4 → 1/8 → 1/16 → 2x**, then around again. If a deck recorded at half speed, set the take to 1/2 and it sounds as it did.
+
+But a demon does not need to be told the truth. Set a full-speed take to 1/2 and MAX hears it an octave lower and twice as long, before his claws ever touch it. At **1/16** a single second of tape stretches into a long, low drone. **2x** does the reverse: faster, higher, and half as long.
+
+**Hold BTN3** for **REV**, and the take runs backwards. REV works at any speed, and a held BTN3 turns it forwards again.
+
+- **HEAR** plays the take at its speed and in its direction, so you can try it before you feed him. Change SPEED or REV while it plays and the preview starts over the new way. Backwards, the playhead runs right to left.
+- A take at any speed but 1x wears its fraction in a small black box after its length. A take turned around wears a little backwards triangle. The BTN4 cell shows the take's speed, and the **rev** cell (under BTN3) lights up while REV is on.
+- Lengths are shown as MAX will hear them: a 5-second take set to 1/2 reads 10 seconds. The 20 seconds he eats and the SLIDE box are measured the same way, so a slowed take is more likely to be a long one.
+- On the vessels screen, the take's name carries its speed and REV, such as **TAKE 2/5 10.2s 1/2 REV**.
+- MAX forgets SPEED and REV when he is banished, as he forgets the SLIDE box.
 
 **An empty tape.** With nothing recorded, MAX waits in silence and the page reads **0 on tape**. This is not a fault. Record a take, or let him LISTEN.
 
@@ -158,6 +176,7 @@ A vessel on CHAOS **breathes**. Each time MAX throws a grain into it, its HOLD d
 | **RESTING** | MAX is paused. The vessels still sound. | Tap BTN1 to wake him. |
 | **FROZEN** | Everything is stopped and silent. | Hold BTN1 to thaw, or tap it to wake MAX. |
 | One vessel is silent | Its volume is at 0, or it holds no grains. | Tap BTN3 to choose that vessel, then turn the knob up. |
+| A take from the decks plays fast and high | The deck recorded it at less than full speed. | Set its SPEED on the TAKE page to match (1/2 for a half-speed take). |
 | Too hectic | The vessels are too full or MAX grabs too fast. | Lower HOLD or raise GRAB, or hold BTN3 to empty the vessels. |
 
 ![The NOTHING HEARD warning over the vessels](images/nothing-heard.jpg)
@@ -168,7 +187,7 @@ One quirk of the tape! itself: with MAX awake, choosing him again from the main 
 
 ## IX. Colophon
 
-**MAX THE DEMON**, v666
+**MAX THE DEMON**, v666.1
 
 - **Inspired by:** Maxwell's Demon Thought Experiment, circa 1867
 - **Created by:** SPIKE the Percussionist
