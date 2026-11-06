@@ -42,7 +42,7 @@ Each vessel holds only so many grains, its **HOLD** (6 when he wakes). When a ne
 - **HOT** grains move fast and trail speed lines. **COLD** grains drift slowly with dotted trails.
 - A grain flashes and **sounds** each time it strikes a wall. It is panned by where it hits, with soft 3 ms edges so it does not click.
 
-&#91;image: MAX at work: grains bouncing in the COLD and HOT vessels\]
+![MAX at work: grains bouncing in the COLD and HOT vessels](images/max-at-work.jpg)
 
 *MAX at work. COLD (left) is full of slow grains with dotted trails; HOT (right) holds the fast ones. HOLD ✶18|6 means COLD is breathing on CHAOS.*
 
@@ -52,7 +52,7 @@ Each vessel has its own volume, shown in the meter under it.
 
 Five buttons and one knob command the demon. The bar along the top of the screen always shows what each button does at that moment.
 
-&#91;image: The bins screen with MAX resting and the vessels empty\]
+![The bins screen with MAX resting and the vessels empty](images/bins-screen.jpg)
 
 *The bar at the top: the upper row is what each button does on a tap, the lower row on a hold. Here MAX rests, so BTN1 reads wake.*
 
@@ -79,7 +79,7 @@ MAX feeds only on what you give him. **Tap BTN2** to see every take on your tape
 | BTN3 SLIDE | Long takes only (see below). |
 | BTN4 / BTN5 | Go back, changing nothing. |
 
-&#91;image: The TAKE page listing five takes, a long one with its 20 s box\]
+![The TAKE page listing five takes, a long one with its 20 s box](images/take-page.jpg)
 
 *The TAKE page: five takes on tape. Take 05 runs 27.3 s, so the box marks the 20 s MAX will eat.*
 
@@ -96,7 +96,7 @@ MAX can also take his meal straight from the air. He keeps an ear trumpet for th
 3. **The countdown.** MAX raises the trumpet over a one-second **3, 2, 1**. The vessels fall quiet.
 4. **He listens** for 6 seconds, then lowers the trumpet and begins to feed on what he heard.
 
-&#91;image: MAX raising his ear trumpet during LISTEN\]
+![MAX raising his ear trumpet during LISTEN](images/listen.jpg)
 
 *The Listening: trumpet raised, 4.5 s heard so far.*
 
@@ -113,7 +113,7 @@ If the air held nothing but hiss, he casts the capture away. **NOTHING HEARD** a
 - **BTN3**: open the **ABOUT** page. Any button closes it.
 - **BTN4 / BTN5**: close the book and return to the vessels.
 
-&#91;image: The SETTINGS page with its five rows and the loudness chart\]
+![The SETTINGS page with its five rows and the loudness chart](images/settings.jpg)
 
 *The book as MAX wakes: MIC, 3s, 60ms, 6 | 6, AUTO.*
 
@@ -141,7 +141,7 @@ Turn SIZE past 500 ms and you reach the **chaos sigil**. Each grain's length is 
 
 The HOLD row reads `COLD | HOT`. BTN1 walks through it in order: COLD's value, then HOT's. Turn either value past 40 to reach **CHAOS**, and BTN1 then also asks for that vessel's low and high (5 to 20 at first).
 
-&#91;image: The HOLD row set to CHAOS 5-20 for COLD\]
+![The HOLD row set to CHAOS 5-20 for COLD](images/hold-chaos.jpg)
 
 *COLD's HOLD turned to CHAOS (5-20); the sigil in the corner offers its range next.*
 
@@ -160,7 +160,7 @@ A vessel on CHAOS **breathes**. Each time MAX throws a grain into it, its HOLD d
 | One vessel is silent | Its volume is at 0, or it holds no grains. | Tap BTN3 to choose that vessel, then turn the knob up. |
 | Too hectic | The vessels are too full or MAX grabs too fast. | Lower HOLD or raise GRAB, or hold BTN3 to empty the vessels. |
 
-&#91;image: The NOTHING HEARD warning over the vessels\]
+![The NOTHING HEARD warning over the vessels](images/nothing-heard.jpg)
 
 *NOTHING HEARD: the capture held only hiss, so MAX went back to his take.*
 
